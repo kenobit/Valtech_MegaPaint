@@ -19,3 +19,12 @@ C:\Dropbox\ValtechProjects\DESKTOP\MegaPaint\MegaPaint\obj\Debug\MegaPaint.cspro
 D:\Dropbox\ValtechProjects\DESKTOP\MegaPaint\MegaPaint\bin\Debug\MegaPaint.exe.config
 D:\Dropbox\ValtechProjects\DESKTOP\MegaPaint\MegaPaint\obj\Debug\MegaPaint.exe
 D:\Dropbox\ValtechProjects\DESKTOP\MegaPaint\MegaPaint\obj\Debug\MegaPaint.pdb
+C:\Dropbox\ValtechProjects\DESKTOP\MegaPaint_CR_LL\MegaPaint\bin\Debug\MegaPaint.exe.config
+C:\Dropbox\ValtechProjects\DESKTOP\MegaPaint_CR_LL\MegaPaint\obj\Debug\MegaPaint.exe
+C:\Dropbox\ValtechProjects\DESKTOP\MegaPaint_CR_LL\MegaPaint\obj\Debug\MegaPaint.pdb
+C:\Dropbox\ValtechProjects\DESKTOP\MegaPaint_CR_LL\MegaPaint\bin\Debug\MegaPaint.exe
+C:\Dropbox\ValtechProjects\DESKTOP\MegaPaint_CR_LL\MegaPaint\bin\Debug\MegaPaint.pdb
+C:\Dropbox\ValtechProjects\DESKTOP\MegaPaint_CR_LL\MegaPaint\obj\Debug\MegaPaint.csprojResolveAssemblyReference.cache
+C:\Dropbox\ValtechProjects\DESKTOP\MegaPaint_CR_LL\MegaPaint\obj\Debug\MegaPaint.MainWindow.resources
+C:\Dropbox\ValtechProjects\DESKTOP\MegaPaint_CR_LL\MegaPaint\obj\Debug\MegaPaint.Properties.Resources.resources
+C:\Dropbox\ValtechProjects\DESKTOP\MegaPaint_CR_LL\MegaPaint\obj\Debug\MegaPaint.csproj.GenerateResource.Cache
