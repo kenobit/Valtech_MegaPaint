@@ -121,7 +121,7 @@ namespace MegaPaint
 
                     if (RandomWidthCheckBox.Checked)
                     {
-                        penWidth = new Random().Next(1, 15);
+                        penWidth = new Random().Next(1, 20);
                     }
                     Graphics g = Graphics.FromImage(DrawArea);
                     g.SmoothingMode = System.Drawing.Drawing2D.SmoothingMode.HighQuality;
